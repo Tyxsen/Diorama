@@ -53,6 +53,8 @@ Material:
     m_Floats:
     - _Detail_Height: 1
     - _Detail_Scale: 100
+    - _Island_Falloff: 0.25
+    - _Island_Size: 0.41
     - _Max_Height: 13.94
     - _Min_Height: 1.16
     - _Mountain_Height: 42
@@ -60,9 +62,15 @@ Material:
     - _Mountain_Sharpness: 2.33
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Rock_Edge1: 0.1
+    - _Rock_Edge2: 0.85
+    - _Specular_Shininess: 32
     - _Test_3: 0.95
     - _test_1: 0.1
     m_Colors:
+    - _Ambient_Light: {r: 0.07547168, g: 0.07547168, b: 0.07547168, a: 1}
+    - _Light_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Light_Direction: {r: -0.9547532, g: 0.28127033, b: -0.09661038, a: 0}
     - _Rock_Color: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
