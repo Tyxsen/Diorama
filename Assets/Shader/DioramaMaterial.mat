@@ -53,6 +53,8 @@ Material:
     m_Floats:
     - _Detail_Height: 1
     - _Detail_Scale: 100
+    - _Fog_End: 200
+    - _Fog_Start: 50
     - _Island_Falloff: 0.25
     - _Island_Size: 0.41
     - _Max_Height: 13.94
@@ -72,6 +74,7 @@ Material:
     - _test_1: 0.1
     m_Colors:
     - _Ambient_Light: {r: 0.07547168, g: 0.07547168, b: 0.07547168, a: 1}
+    - _Fog_Color: {r: 0.103773594, g: 0.103773594, b: 0.103773594, a: 1}
     - _Light_Color: {r: 1, g: 1, b: 1, a: 1}
     - _Light_Direction: {r: 0.5191011, g: 0.82872856, b: -0.20914862, a: 0}
     - _Rock_Color: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 1}
